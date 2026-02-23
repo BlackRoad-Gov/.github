@@ -1,64 +1,44 @@
 <div align="center">
-
-# BlackRoad Gov
-
-**Governance, compliance, voting, and civic technology.**
-
-[![Repos](https://img.shields.io/badge/repos-23-black?style=flat-square)](https://github.com/orgs/BlackRoad-Gov/repositories)
-[![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)](https://blackroad.ai)
-
+  <h1>🛣️ BlackRoad OS</h1>
+  <p><strong>Your AI. Your Hardware. Your Rules.</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/Agents-30%2C000-FF1D6C?style=for-the-badge&logo=robot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Repos-1%2C825%2B-9C27B0?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Orgs-17-2979FF?style=for-the-badge"/>
+  </p>
 </div>
 
----
+## Overview
 
-## 🏛️ What We Build
+BlackRoad OS is the infrastructure backbone for AI-first companies — powering 30,000+ concurrent AI agents across edge, cloud, and on-premise hardware.
 
-BlackRoad Gov is the governance and compliance layer — transparent decision-making, regulatory compliance, voting systems, and civic tools.
+| Platform | Scale | Status |
+|----------|-------|--------|
+| AI Agents | 30,000 | ✅ Active |
+| Cloudflare Workers | 75+ | ✅ Active |
+| Raspberry Pi Fleet | 4 nodes | ✅ Active |
+| GitHub Actions | 50+ workflows | ✅ Active |
 
----
+## Core Systems
 
-## 📦 Repositories
+- **Tokenless Gateway** — All AI provider secrets live only here
+- **PS-SHA∞ Memory** — Hash-chained persistent AI memory  
+- **CECE Identity** — Portable AI identity across any provider
+- **30K Agent Mesh** — WebSocket + MQTT orchestration
 
-### Voting & Democracy
-| Repo | Upstream | Purpose |
-|------|----------|---------|
-| [`blackroad-helios`](https://github.com/BlackRoad-Gov/blackroad-helios) | benadida/helios-server | Verifiable voting |
-| [`blackroad-decidim`](https://github.com/BlackRoad-Gov/blackroad-decidim) | decidim/decidim | Democratic participation |
-| [`blackroad-consul`](https://github.com/BlackRoad-Gov/blackroad-consul) | consul-democracy/consul | Citizen participation |
-| [`blackroad-polis`](https://github.com/BlackRoad-Gov/blackroad-polis) | compdemocracy/polis | AI-assisted deliberation |
+## Organizations
 
-### Compliance & Audit
-| Repo | Upstream | Purpose |
-|------|----------|---------|
-| [`blackroad-opengovernance`](https://github.com/BlackRoad-Gov/blackroad-opengovernance) | opengovernance/opengovernance | Cloud compliance |
-| [`blackroad-prowler`](https://github.com/BlackRoad-Gov/blackroad-prowler) | prowler-cloud/prowler | Cloud security compliance |
-| [`blackroad-vanta`](https://github.com/BlackRoad-Gov/blackroad-vanta) | — | SOC 2 / ISO 27001 prep |
-| [`blackroad-osquery`](https://github.com/BlackRoad-Gov/blackroad-osquery) | osquery/osquery | Infrastructure auditing |
+| Org | Purpose |
+|-----|---------|
+| [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc) | Core platform & gateway |
+| [BlackRoad-OS](https://github.com/BlackRoad-OS) | OS, web, docs, agents |
+| [BlackRoad-AI](https://github.com/BlackRoad-AI) | ML models & inference |
+| [BlackRoad-Cloud](https://github.com/BlackRoad-Cloud) | Infrastructure & K8s |
+| [BlackRoad-Security](https://github.com/BlackRoad-Security) | Security & compliance |
 
-### Legal & Policy
-| Repo | Purpose |
-|------|---------|
-| [`blackroad-policies`](https://github.com/BlackRoad-Gov/blackroad-policies) | Platform policies and terms |
-| [`blackroad-privacy`](https://github.com/BlackRoad-Gov/blackroad-privacy) | Privacy policy framework |
-| [`blackroad-gdpr`](https://github.com/BlackRoad-Gov/blackroad-gdpr) | GDPR compliance tools |
-| [`blackroad-licenses`](https://github.com/BlackRoad-Gov/blackroad-licenses) | License management |
+## Brand
 
-### Transparency
-| Repo | Purpose |
-|------|---------|
-| [`blackroad-audit-log`](https://github.com/BlackRoad-Gov/blackroad-audit-log) | Immutable audit trail |
-| [`blackroad-governance`](https://github.com/BlackRoad-Gov/blackroad-governance) | Org governance framework |
-| [`blackroad-proposals`](https://github.com/BlackRoad-Gov/blackroad-proposals) | Governance proposals (RFCs) |
-| [`blackroad-decisions`](https://github.com/BlackRoad-Gov/blackroad-decisions) | Architecture decision records |
-
-### AI Ethics
-| Repo | Purpose |
-|------|---------|
-| [`blackroad-ai-ethics`](https://github.com/BlackRoad-Gov/blackroad-ai-ethics) | AI ethical guidelines |
-| [`blackroad-alignment`](https://github.com/BlackRoad-Gov/blackroad-alignment) | AI alignment research |
-| [`blackroad-safety`](https://github.com/BlackRoad-Gov/blackroad-safety) | Safety protocols |
+Primary: `#FF1D6C` · Gradient: `#F5A623 → #FF1D6C → #9C27B0 → #2979FF`
 
 ---
-
-> Part of [BlackRoad OS](https://github.com/BlackRoad-OS-Inc) — 17 orgs, 1,825+ repos.
-> © BlackRoad OS, Inc. All rights reserved.
+*© BlackRoad OS, Inc. All rights reserved. Proprietary — not open source.*
