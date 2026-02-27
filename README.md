@@ -22,6 +22,15 @@ This repository is part of the BlackRoad Empire:
 - Designed to support **30,000 AI agents + 30,000 human employees**
 - **1 operator:** Alexa Amundson (CEO)
 
+## 📚 Documentation
+
+- [Architecture Overview](BLACKROAD_ARCHITECTURE.md) — High-level routing and infrastructure design
+- [Technical Framework](BLACKROAD_OS_TECHNICAL_FRAMEWORK.md) — Comprehensive multi-agent orchestration and infrastructure specification
+- [Traffic Light System](TRAFFIC_LIGHT_SYSTEM.md) — Project status indicators
+- [Emoji Dictionary](BLACKROAD_EMOJI_DICTIONARY.md) — Official emoji standards
+- [Security Policy](SECURITY.md) — Vulnerability reporting and security features
+- [Contributing](CONTRIBUTING.md) — Contribution guidelines and brand system
+
 ## 📊 Status
 
 🟢 **Active Development** | 🏢 **BlackRoad OS, Inc.** | 👔 **CEO: Alexa Amundson**

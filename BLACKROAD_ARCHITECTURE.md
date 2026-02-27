@@ -157,5 +157,8 @@ This is the Operator pattern in miniature. Start with physics, extend to every d
 
 ---
 
-*Last Updated: 2026-01-12*
+*Last Updated: 2026-02-27*
+
+> For the comprehensive technical framework including the deca-layered agent scaffold, Raspberry Pi inference offloading, roadchain witnessing architecture, and the @BlackRoadBot routing matrix, see [BLACKROAD_OS_TECHNICAL_FRAMEWORK.md](BLACKROAD_OS_TECHNICAL_FRAMEWORK.md).
+
 *BlackRoad OS, Inc. - Proprietary and Confidential*
