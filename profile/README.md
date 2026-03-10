@@ -1,38 +1,35 @@
 <div align="center">
 
-# 🏛️ BlackRoad Gov
+# BlackRoad Gov
 
-### Transparent Systems. Better Governance.
+**Civic technology — compliance frameworks, audit tools, policy tracking, digital identity.**
 
-Voting systems, governance frameworks, and civic technology for transparent, accountable organizations.
-
-[![Platform](https://img.shields.io/badge/Platform-blackroad.io-FF1D6C?style=for-the-badge)](https://blackroad.io)
-[![Agents](https://img.shields.io/badge/AI_Agents-30%2C000-9C27B0?style=for-the-badge)](https://agents.blackroad.io)
-[![Cost](https://img.shields.io/badge/AI_Cost-%240-F5A623?style=for-the-badge)](https://blackroad.io)
+[![Website](https://img.shields.io/badge/blackroad--gov.github.io-000?style=flat-square&logo=github)](https://blackroad-gov.github.io)
 
 </div>
 
 ---
 
-## 🎯 Focus Areas
+## Repositories
 
-`Voting` • `Governance` • `Civic Tech` • `Compliance`
-
-## 🔗 Links
-
-| | |
+| Repository | Description |
 |---|---|
-| 🌐 **Website** | [blackroad-gov.github.io](https://blackroad-gov.github.io) |
-| 📖 **Docs** | [docs.blackroad.io](https://docs.blackroad.io) |
-| 💬 **Status** | [status.blackroad.io](https://status.blackroad.io) |
-| 🤖 **Agents** | [agents.blackroad.io](https://agents.blackroad.io) |
+| [roadcoin-token](https://github.com/BlackRoad-Gov/roadcoin-token) | 💰 RoadCoin - Creator payment system. Direct payments, micro-tipping, subscription management. No platform fees. |
+| [compliance-framework](https://github.com/BlackRoad-Gov/compliance-framework) | Compliance and regulatory framework tools |
+| [audit-tools](https://github.com/BlackRoad-Gov/audit-tools) | Auditing and verification tools |
+
+<details>
+<summary>Archived</summary>
+
+| Repository | Description |
+|---|---|
+| [blackroad-digital-identity](https://github.com/BlackRoad-Gov/blackroad-digital-identity) | Digital identity verification and KYC system |
+| [blackroad-budget-tracker](https://github.com/BlackRoad-Gov/blackroad-budget-tracker) | Government budget planning and expenditure tracking |
+| [blackroad-freedom-of-info](https://github.com/BlackRoad-Gov/blackroad-freedom-of-info) | FOIA request management system |
+| [blackroad-policy-tracker](https://github.com/BlackRoad-Gov/blackroad-policy-tracker) | Government policy and legislation tracker |
+
+</details>
 
 ---
 
-<div align="center">
-
-**Part of [BlackRoad OS](https://blackroad.io)** — 30,000 AI Agents • 17 Organizations • 1,800+ Repos • $0 AI Cost
-
-*© BlackRoad OS, Inc. All rights reserved.*
-
-</div>
+<sub>BlackRoad OS, Inc. — [blackroad.io](https://blackroad.io)</sub>
