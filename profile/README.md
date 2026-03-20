@@ -1,35 +1,25 @@
-<div align="center">
-
 # BlackRoad Gov
 
-**Civic technology — compliance frameworks, audit tools, policy tracking, digital identity.**
-
-[![Website](https://img.shields.io/badge/blackroad--gov.github.io-000?style=flat-square&logo=github)](https://blackroad-gov.github.io)
-
-</div>
+**A division of [BlackRoad OS, Inc.](https://github.com/BlackRoad-OS-Inc) — Proprietary Software**
 
 ---
 
-## Repositories
+## About
 
-| Repository | Description |
-|---|---|
-| [roadcoin-token](https://github.com/BlackRoad-Gov/roadcoin-token) | 💰 RoadCoin - Creator payment system. Direct payments, micro-tipping, subscription management. No platform fees. |
-| [compliance-framework](https://github.com/BlackRoad-Gov/compliance-framework) | Compliance and regulatory framework tools |
-| [audit-tools](https://github.com/BlackRoad-Gov/audit-tools) | Auditing and verification tools |
+BlackRoad Gov is the governance and compliance division of BlackRoad OS. BlackRoad Gov builds compliance frameworks, audit tools, policy trackers, and digital identity systems. Governance infrastructure for accountable operations.
 
-<details>
-<summary>Archived</summary>
+All repositories in this organization are proprietary to BlackRoad OS, Inc. Source code is publicly visible for transparency. Commercial use, forking, and redistribution are prohibited.
 
-| Repository | Description |
-|---|---|
-| [blackroad-digital-identity](https://github.com/BlackRoad-Gov/blackroad-digital-identity) | Digital identity verification and KYC system |
-| [blackroad-budget-tracker](https://github.com/BlackRoad-Gov/blackroad-budget-tracker) | Government budget planning and expenditure tracking |
-| [blackroad-freedom-of-info](https://github.com/BlackRoad-Gov/blackroad-freedom-of-info) | FOIA request management system |
-| [blackroad-policy-tracker](https://github.com/BlackRoad-Gov/blackroad-policy-tracker) | Government policy and legislation tracker |
+## Parent Organization
 
-</details>
+This division operates under [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc), the corporate root of the BlackRoad ecosystem. See the parent org for the full technology stack, product catalog, and organizational structure.
+
+## License
+
+Proprietary — BlackRoad OS, Inc. See individual repositories for license terms.
 
 ---
 
-<sub>BlackRoad OS, Inc. — [blackroad.io](https://blackroad.io)</sub>
+**BlackRoad OS — Pave Tomorrow.**
+
+*Copyright 2024-2026 BlackRoad OS, Inc. All Rights Reserved.*
