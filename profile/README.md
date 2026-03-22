@@ -1,41 +1,20 @@
-<div align="center">
+# BlackRoad-Gov
 
-<img src="https://images.blackroad.io/pixel-art/road-logo.png" alt="BlackRoad OS" width="80" />
+Governance and compliance for BlackRoad OS. Audit tools, policy enforcement, and digital identity.
 
-# BlackRoad Gov
-
-**Governance, compliance, and digital identity for decentralized organizations.**
-
-[![BlackRoad OS](https://img.shields.io/badge/BlackRoad_OS-Pave_Tomorrow-FF2255?style=for-the-badge&labelColor=000000)](https://blackroad.io)
-
-</div>
-
----
-
-## About
-
-BlackRoad Gov handles governance frameworks, compliance automation, and digital identity across the BlackRoad ecosystem. From token-based voting to regulatory compliance tracking, this division ensures that decentralized operations remain accountable, auditable, and legally sound.
-
-## Repositories
-
-| Repository | Description |
-|------------|-------------|
-| [roadcoin-token](https://github.com/BlackRoad-Gov/roadcoin-token) | Governance token contracts and voting mechanics |
-| [compliance-framework](https://github.com/BlackRoad-Gov/compliance-framework) | Regulatory compliance rules and audit automation |
-| [blackroad-digital-identity](https://github.com/BlackRoad-Gov/blackroad-digital-identity) | Self-sovereign identity and credential verification |
-| [audit-tools](https://github.com/BlackRoad-Gov/audit-tools) | Financial and operational audit tooling |
-| [blackroad-policy-tracker](https://github.com/BlackRoad-Gov/blackroad-policy-tracker) | Policy versioning and change management |
+Cece governance engine — 24 policies, zero violations, constitutional agent oversight.
 
 ## Part of BlackRoad OS
 
-This organization is part of [BlackRoad OS, Inc.](https://blackroad.io) -- sovereign AI infrastructure built by Alexa Amundson.
+BlackRoad OS is a distributed AI operating system with sovereign infrastructure — 20 domains, 668 repositories, and 1,000 AI agents running on a fleet of Raspberry Pis and Hailo-8 accelerators. No cloud dependency. No API keys. No vendor lock-in.
 
-- 16 organizations | 275+ repositories | 20 domains
-- 7 nodes | 41.8 TOPS | 60 AI agents
-- Self-hosted everything. Your AI. Your hardware. Your rules.
+- **Website:** [blackroad.io](https://blackroad.io)
+- **Docs:** [docs.blackroad.io](https://docs.blackroad.io)
+- **Status:** [status.blackroad.io](https://status.blackroad.io)
+- **Search:** [search.blackroad.io](https://search.blackroad.io)
 
----
+Built by [Alexa Amundson](https://blackboxprogramming.io). Delaware C-Corp, founded November 2025.
 
-**BlackRoad OS -- Pave Tomorrow.**
+**BlackRoad OS — Pave Tomorrow.**
 
-[blackroad.io](https://blackroad.io) | [git.blackroad.io](https://git.blackroad.io)
+*© 2024-2026 BlackRoad OS, Inc. All Rights Reserved.*
