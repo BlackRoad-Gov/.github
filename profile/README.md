@@ -1,20 +1,19 @@
 # BlackRoad-Gov
 
-**Government and compliance**
+**Governance and compliance** — Part of the BlackRoad OS ecosystem.
 
-Part of [BlackRoad OS](https://blackroad.io) — sovereign infrastructure built from bare metal up.
+> 18 orgs · 20 domains · 200 agents · Sovereign infrastructure
+
+13 public repositories | [blackroad.io](https://blackroad.io) | [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+## Key Repositories
+
+- [.github](https://github.com/BlackRoad-Gov/.github) — Governance, compliance, RoadChain — downstream from BlackRoad-OS-Inc[0:60]
+- [blackroad-gov.github.io](https://github.com/BlackRoad-Gov/blackroad-gov.github.io) — BlackRoad OS GitHub Pages[0:60]
+- [roadcoin-token](https://github.com/BlackRoad-Gov/roadcoin-token) — RoadCoin — creator payment system with direct payments, micro-tipping, and subscription management. Proprietary BlackRoad OS, Inc.[0:60]
+- [legal-portal](https://github.com/BlackRoad-Gov/legal-portal) — Legal Portal — Compliance Made Simple[0:60]
+- [audit-tools](https://github.com/BlackRoad-Gov/audit-tools) — Auditing and verification tools[0:60]
 
 ---
 
-| | |
-|---|---|
-| **Parent** | [BlackRoad OS, Inc.](https://github.com/BlackRoad-OS-Inc) |
-| **Website** | [blackroad.io](https://blackroad.io) |
-| **Search** | [search.blackroad.io](https://search.blackroad.io) |
-| **Org Page** | [blackroad-gov.github.io](https://blackroad-gov.github.io) |
-
----
-
-> Built by [Alexa Amundson](https://blackroad.me). Delaware C-Corp. Founded November 2025.
-> 
-> 23 orgs · 2,280+ repos · 29 languages · 7 nodes · 52 TOPS
+Proprietary — BlackRoad OS, Inc. All rights reserved.
